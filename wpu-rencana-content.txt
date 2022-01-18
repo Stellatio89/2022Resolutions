@@ -3,7 +3,8 @@ Rencana konten WPU
 - Javascript 
   *ES6
   *FRAMEWORK
-   ^view 
+   ^vue
+   ^react 
   *Fundamental data structure 
 - PHP framework
   ^ laravel 
