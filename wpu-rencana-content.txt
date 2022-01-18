@@ -3,7 +3,10 @@ Rencana konten WPU
 - Javascript 
   *ES6
   *FRAMEWORK
+   ^view 
   *Fundamental data structure 
 - PHP framework
+  ^ laravel 
 - Interview
 - vlog
+- phyton 
