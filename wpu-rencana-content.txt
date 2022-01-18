@@ -3,6 +3,8 @@ Rencana konten WPU
 - Javascript 
   *ES6
   *FRAMEWORK
+  ^ANGULAR
+  ^REACT 
   *Fundamental data structure 
 - PHP framework
 - Interview
